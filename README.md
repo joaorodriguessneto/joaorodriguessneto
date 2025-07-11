@@ -3,7 +3,11 @@
 ## Ciêntista de dados junior
 
 ### Sobre mim:
-👩‍🎓 Bacharel em Engenharia Mecânica pela Universidade de Boa Viagem Wyden e Técnico em Mecânica Industrial pela Escola Técnica Particular.
+👩‍🎓 Olá, eu sou João Rodrigues, engenheiro mecânico e técnico em mecânica industrial, atualmente em transição para a área de dados — um universo que tenho explorado com entusiasmo e dedicação.
+
+Após experiências práticas e técnicas em empresas como a Tramontina e a Lightdesign, descobri na análise de dados uma nova paixão: transformar números em conhecimento e apoiar decisões com base em evidências. Desde então, venho me especializando em Python, estatística, SQL e machine learning, buscando unir minha base sólida em engenharia com a lógica e o poder da ciência de dados.
+
+Meu objetivo hoje é atuar com propósito e impacto, contribuindo com soluções inteligentes e aprendizado constante. Estou animado com os desafios que vêm pela frente e pronto para crescer junto com projetos e equipes que valorizem curiosidade, colaboração e resultados.
 
 ⭐️ Experiências:
 * 💻 Desenvolvimento de modelos de Machine Learning utilizando Python;
