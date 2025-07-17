@@ -68,13 +68,10 @@ Meu objetivo hoje é atuar com propósito e impacto, contribuindo com soluções
 
 ## Meus Projetos:
 
-### [Análise de NDVI em Barreiras/BA](https://github.com/beatrizscv/analise-ndvi-barreiras)
-  * Análise do Índice de Vegetação por Diferença Normalizada (NDVI) em uma área agrícola no município de Barreiras/BA utilizando Python e a API do Google Earth Engine (GEE).
-  * Repositório: https://github.com/beatrizscv/analise-ndvi-barreiras
+### [Análise Exploratória de Dados de Precificação de Imóveis](https://github.com/joaorodriguessneto/House_Prices)
+  * Neste projeto fiz uma análise exploratória de dados de precificação de imóveis em que no final fiz um modelo de regressão múltipla para uma precificação mais justa.
+  * Repositório: https://github.com/joaorodriguessneto/House_Prices
 
-### [Análise Exploratória das Propriedades do Solo em Bangladesh](https://github.com/beatrizscv/analise-exploratoria-bangladesh)
-  * Análise exploratória para compreender como as propriedades do solo e condições climáticas do país influenciam a aptidão agrícola da região.
-  * Repositório: https://github.com/beatrizscv/analise-exploratoria-bangladesh
 
 <p align="center">
 
